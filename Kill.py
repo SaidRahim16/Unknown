@@ -11,9 +11,9 @@ ku='\033[33;1m' #kuning
 echo
 clear
 
-pkg install figlet
-pkg install ruby
-gem install lolcat
+
+
+
 clear
 echo""
 echo""
