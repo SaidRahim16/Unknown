@@ -10,7 +10,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 clear
-pkg install python python2
+
 pkg install figlet
 pkg install ruby
 gem install lolcat
